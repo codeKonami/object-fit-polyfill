@@ -1,0 +1,22 @@
+{
+  "name": "must-fit",
+  "version": "2.0.0",
+  "description": "A Javascript polyfill for browsers that don't support the object-fit CSS property.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeKonami/object-fit-polyfill.git"
+  },
+  "keywords": [
+    "object-fit-polyfill"
+  ],
+  "author": "codeKonami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeKonami/object-fit-polyfill/issues"
+  },
+  "homepage": "https://github.com/codeKonami/object-fit-polyfill#readme"
+}
